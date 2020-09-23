@@ -1,0 +1,12 @@
+
+main{
+    background-color: cyan;
+    color:pink;
+    border-radius: 70%;
+    display: flex;
+    box-shadow: blue;
+    border-radius: 75%;
+    background-origin: padding-box;
+    border-color: cornflowerblue 6px;
+  
+}
